@@ -3,7 +3,7 @@
 * [TikToken](https://github.com/openai/tiktoken)
 * [Web TikToken](https://tiktokenizer.vercel.app/)
 
-![TikToken](assets/tiktoken.png)
+![TikToken](https://raw.githubusercontent.com/leepro/LLM/main/assets/tiktoken.png)
 
 ## GPT2
 
