@@ -29,7 +29,8 @@
 | **Blackwell** | 2024 | 3nm (expected) | B100 (expected) | Next-gen AI acceleration |
 
   * AMD Instinct MI300X, MI250X
-* TPU
+
+ TPU
   * Google
 
 | TPU Version | Release Year | Performance (TFLOPS) | Memory (HBM) | Use Cases |
@@ -39,6 +40,13 @@
 | **TPU v3** | 2018        | 420                  | 32GB         | BERT, Transformer training |
 | **TPU v4** | 2021        | 1000+                | 32GB         | Large-scale LLM training, Google Cloud |
 | **TPU v5** | 2023        | Unreleased (Improved over TPU v4) | 32GB+ | Gemini AI, ultra-large models |
+
+* Cerebras Wafer-Scale Engine (WSE): Ideal for large-scale AI, including LLMs, used in research for models requiring massive parallelism (seo.ai blog on AI chip makers).
+* Graphcore Intelligence Processing Unit (IPU): Optimized for AI training and inference, suitable for LLMs in cloud and data centers (seo.ai blog on AI chip makers).
+* SambaNova Reconfigurable Dataflow Processing Unit (RDPU): Efficient for both training and inference, catering to LLM workloads in enterprise settings (seo.ai blog on AI chip makers).
+* Groq Tensor Streaming Processor (TSP): Focused on ultra-low latency inference for LLMs, with up to 10x energy efficiency, ideal for real-time applications (Groq products).
+* AWS Offerings: Trainium2 and Inferentia2 cater to AWS’s cloud ecosystem, with Trainium2 offering 30-40% better price performance for training and Inferentia2 up to 4X throughput for inference, supporting LLMs in Amazon SageMaker and EC2, reflecting AWS’s focus on scalable AI solutions.
+* Tenstorrent: a company that designs and manufactures AI hardware and software solutions, offering products like the Grayskull and Wormhole processors for scalable deep learning and machine learning applications. 
 
 * Apple Silicon
   * MLX
