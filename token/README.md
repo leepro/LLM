@@ -3,6 +3,8 @@
 * [TikToken](https://github.com/openai/tiktoken)
 * [Web TikToken](https://tiktokenizer.vercel.app/)
 
+![TikToken](assets/tiktoken.png)
+
 ## GPT2
 
 ```
