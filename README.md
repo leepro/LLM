@@ -56,7 +56,7 @@
 | **M3** | 2023 | 18 TOPS | 10 | Hardware-accelerated ray tracing |
 | **M3 Pro** | 2023 | 18 TOPS | 14-18 | More power-efficient ML performance |
 | **M3 Max** | 2023 | 18 TOPS | 30-40 | Enhanced AI model training |
-| **M4 ** | 2024 | | | MLX and AI optimizations |
+| **M4** | 2024 | 38 TOPS | 10-40 | MLX and AI optimizations |
 
 * Networking
   * NVIDIA NVLink / InfiniBand
