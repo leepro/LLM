@@ -15,6 +15,12 @@
 
 ## Hardwares
 
+* GPU
+* TPU
+* Specialized hardwares
+* Networking
+* Clustering
+
 ## Multi-Modal
 
 * Text
