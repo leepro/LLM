@@ -1,5 +1,8 @@
 # Tokenizer
 
+* https://github.com/openai/tiktoken
+  * https://tiktokenizer.vercel.app/?model=gpt2
+
 ## GPT2
 
 ```
