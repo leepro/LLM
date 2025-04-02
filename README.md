@@ -15,3 +15,10 @@
 
 ## Hardwares
 
+## Multi-Modal
+
+* Text
+* Audio
+* Photo
+* Video
+
