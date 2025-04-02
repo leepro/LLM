@@ -12,5 +12,5 @@ enc = tiktoken.encoding_for_model("gpt-4o")
 print("token ids=", enc.encode(txt))
 
 for (i, t) in enumerate(enc.encode(txt)):
-	print(f"[{i:02d}] => \t[{t:7d}]\t[{enc.decode([t])}]")
+	print(f"[{i:02d}] => \t[{t}] => \t[{enc.decode([t])}]")
 

@@ -1,7 +1,7 @@
 # Tokenizer
 
-* https://github.com/openai/tiktoken
-  * https://tiktokenizer.vercel.app/?model=gpt2
+* [TikToken](https://github.com/openai/tiktoken)
+* [Web TikToken](https://tiktokenizer.vercel.app/)
 
 ## GPT2
 
